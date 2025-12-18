@@ -56,7 +56,8 @@ section {
     padding: 20px;
     gap: 20px;
     justify-content: space-between;
-    align-items: flex-start;
+      display: flex;
+    align-items: stretch;
 }
 
 .left,
@@ -67,10 +68,14 @@ section {
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    max-height: 500px;
+    /* max-height: 500px; */
     overflow-y: auto;
 }
 
+.left p {
+    font-size: 1.1rem;
+    line-height: 1.7;
+}
 
 .middle {
     flex: 1 1 45%;
@@ -79,6 +84,7 @@ section {
     padding: 15px;
     border-radius: 10px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+
 }
 
 .middle img {
@@ -94,6 +100,7 @@ section {
     background-color: rgba(255,255,255,0.2);
     border-radius: 5px;
     transition: all 0.3s;
+   
 }
 
 .middle ul li:hover {
