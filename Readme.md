@@ -10,7 +10,7 @@ This repository contains all the assignments completed for the Web Technologies 
    - Designed a webpage with a header, navigation bar, main content, sidebar, and footer.
 
 2. **Table creation**  
-   - Created HTML tables to display structured data, including headers, rows, and columns, with proper styling using CSS.
+   - Created HTML tables to display structured data, including headers, rows, and columns, with proper styling using CSS .
 
 
 ---
