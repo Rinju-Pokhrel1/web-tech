@@ -11,8 +11,9 @@ This repository contains all the assignments completed for the Web Technologies 
 
 2. **Table creation**  
    - Created HTML tables to display structured data, including headers, rows, and columns, with proper styling using CSS .
-
-
+3. **Navbar using bootstrap**
+-created a responsive navigation bar using Bootstrap.
+Features include:Mobile-friendly design,Clean layout with Bootstrap utility classes,Improved user navigation experience.
 ---
 
 ## 💻 How to Run
