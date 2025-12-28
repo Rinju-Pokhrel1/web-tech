@@ -17,7 +17,7 @@ Features include:Mobile-friendly design,Clean layout with Bootstrap utility clas
 ---
 
 ## 💻 How to Run
-
-1. Clone the repository:
+Clone the repository:
    ```bash
-   git clone https://github.com/your-username/web-tech-assignments.git
+   git clone https://github.com/Rinju-Pokhrel1/web-tech.git
+  
